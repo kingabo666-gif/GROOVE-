@@ -1,4 +1,4 @@
-# GROOVE-
+gradle/wrapper/gradle-wrapper.properties# GROOVE-
 # Groove Music Player
 
 A black and red Android music player.
